@@ -2,6 +2,7 @@ name: ronotes
 favicon: null
 layout_spectrum: 0.12940625729970634
 typography_spectrum: 0.20741247572004795
+title: ronotes
 cta:
   domain: null
   bucket: null
