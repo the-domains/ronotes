@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Golden Gate Bridge, San Francisco'
-datePublished: '2016-06-18T05:40:39.930Z'
-dateModified: '2016-06-18T05:39:13.636Z'
+datePublished: '2016-06-18T05:41:06.588Z'
+dateModified: '2016-06-18T05:41:05.070Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-golden-gate-bridge-san-francisco.md
